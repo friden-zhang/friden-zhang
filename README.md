@@ -10,6 +10,16 @@
 
 ### Professional Experience
 
+**Robotruck | Autonomous Driving Software Engineer, 2025.8 - now**
+- Autonomous Driving Software development
+
+**DiDi Voyager | Autonomous Driving Software Engineer, 2024.9 - 2025.8**
+
+- Responsible for the development of bench automation test platform
+- Responsible for the development of the sensor simulation recharge platform project, using existing data models for algorithm simulation
+
+- **Camera Pipeline:** Responsible for building and optimizing the robot camera pipeline, including image format conversion, video stitching, and video codec integration.
+
 **TuSimple (Beijing) | Linux C/C++ Software Engineer, 2022.7 - 2024.3**
 
 - L2 QNX System Integration & Optimization
@@ -24,12 +34,10 @@
 
 **ByteDance | Embedded System Development Engineer (AI Lab), 2024.3 - 2024.8**
 
-- **Camera Pipeline:** Responsible for building and optimizing the robot camera pipeline, including image format conversion, video stitching, and video codec integration.
 
-**DiDi Voyager | Autonomous Driving Software Engineer, 2024.9 - 2025.8**
 
-- Responsible for the development of bench automation test platform
-- Responsible for the development of the sensor simulation recharge platform project, using existing data models for algorithm simulation
+
+
 
 ### Skills & Awards
 
