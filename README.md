@@ -14,9 +14,9 @@
 
 **DiDi Voyager | Autonomous Driving Software Engineer, 2024.9 - 2025.8**
 
-**TuSimple (Beijing) | Linux C/C++ Software Engineer, 2022.7 - 2024.3**
-
 **ByteDance | Embedded System Development Engineer (AI Lab), 2024.3 - 2024.8**
+
+**TuSimple (Beijing) | Linux C/C++ Software Engineer, 2022.7 - 2024.3**
 
 ### Skills & Awards
 
